@@ -232,7 +232,7 @@ function Header() {
     <AppBar position="sticky" sx={{ py: 1 }}>
       <Toolbar sx={{ display: "flex", gap: 2 }}>
         <Typography variant="h6" color="inherit">
-          <StyledLink to="/">Ecomm</StyledLink>
+          <StyledLink to="/">QuickCart</StyledLink>
         </Typography>
         <SearchBar />
         <Box flexBasis={500} sx={{ display: { md: "flex" } }}>
