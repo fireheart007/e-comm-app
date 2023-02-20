@@ -90,9 +90,9 @@ export default function Register() {
           </Button>
           <Grid container justifyContent={"flex-end"}>
             <Grid item>
-              <Link variant="body2" to="/login">
+              <NavLink variant="body2" to="/login">
                 Already have an account? Sign In
-              </Link>
+              </NavLink>
             </Grid>
           </Grid>
         </Box>
