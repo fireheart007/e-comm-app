@@ -90,7 +90,7 @@ export default function Login() {
         </form>
         <Grid container justifyContent={"flex-end"}>
             <Grid item>
-              <Link variant="body2" href="/register">
+              <Link variant="body2" to="/register">
                 New User? Sign Up
               </Link>
             </Grid>
