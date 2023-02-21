@@ -1,5 +1,5 @@
 # QuickCart - (An E-Commerce Web App)
-# https://quickcart.vercel.app/
+
 ● **QuickCart** is a fully functional online store built using *React JS*. The web app uses *Material UI*, a React UI
 framework, for displaying product information in a visually appealing and user-friendly manner. 
 
@@ -11,3 +11,4 @@ framework, for displaying product information in a visually appealing and user-f
  
 ● Overall, QuickCart is a robust and *user-friendly* platform that provides an enjoyable and seamless online
 shopping experience for customers.
+# https://quickcart.vercel.app/
